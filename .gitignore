@@ -2,3 +2,5 @@
 
 
 .DS_Store
+.idea/
+nginx-1.9.2/objs/
